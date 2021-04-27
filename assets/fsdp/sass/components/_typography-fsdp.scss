@@ -1,0 +1,63 @@
+/*
+* ==> FSDP Typography Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.bg-primary-lighter,
+.hover\:bg-primary-lighter:hover {
+    background-color: color("gray-1");
+}
+
+.usa-link {
+    color: $theme-fsdp-typography-link;
+
+    &.usa-color-text-visited {
+        color: fsdp-typography-link-visited;
+    }
+
+    &.usa-link--external {
+        color: $theme-fsdp-typography-link-external;
+    }
+
+    &.usa-link--external::after {
+        background-image: url("../img/external-link.svg");
+    }
+}
+
+.usa-dark-background {
+    background-color: $theme-fsdp-typography-dark-bg;
+
+    a {
+        color: $theme-fsdp-typography-link-external;
+    }
+}
+
+.fs-img-typography {
+    float: right;
+    padding: 10px 0 20px 20px;
+}
+
+.typography-mono-intro .text-huge,
+.typography-mono-intro .text-tiny {
+    font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+    font-size: 8.34rem;
+    line-height: 1;
+}
+
+.typography-mono-intro .text-tiny {
+    font-size: .83rem;
+}
+
+.typography-serif-intro .text-huge,
+.typography-serif-intro .text-tiny {
+    font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+    font-size: 8.54rem;
+    line-height: 1;
+}
+
+.typography-serif-intro .text-tiny {
+    font-size: .85rem;
+}

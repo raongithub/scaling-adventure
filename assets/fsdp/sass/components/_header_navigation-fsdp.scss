@@ -1,0 +1,190 @@
+/*
+* ==> FSDP Header + Navigation Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-navbar {
+    display: inline;
+}
+
+.fsdp-logo {
+    height: 40px;
+    float: left;
+    margin-top: 2rem;
+}
+
+.usa-logo {
+    float: left;
+
+    @media(max-width:64em) {
+        margin-top: 2.5rem;
+        display: block;
+    }
+
+    @media(max-width:459px) {
+        margin-left: 0;
+    }
+
+    @media(max-width:321px) {
+        margin-left: 1rem;
+    }
+}
+
+.usa-logo a {
+    margin: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+
+    @media(max-width:459px) {
+        font-size: 16px;
+    }
+
+    @media(max-width:357px) {
+        margin-left: 0;
+        font-size: 14px;
+    }
+
+    @media(max-width:321px) {
+        font-size: 20px;
+    }
+
+    @media(max-width:276px) {
+        font-size: 15px;
+    }
+}
+
+.mobile-logo {
+    display: none;
+
+    @media(max-width:64em) {
+        display: block;
+    }
+
+    @media(max-width:321px) {
+        display: none;
+    }
+}
+
+.desktop-logo {
+    @media(max-width:64em) {
+        display: none;
+    }
+}
+
+.usa-menu-btn {
+    background-color: $theme-fsdp-base-color;
+    color: color("gray-1");
+    float: right;
+    margin-top: 2rem;
+
+    &:hover {
+        background-color: $theme-fsdp-base-color;
+    }
+
+    &:focus {
+        outline: 0.15rem solid;
+        color: $theme-fsdp-focus-color;
+    }
+}
+
+.usa-nav__secondary {
+    margin-bottom: .5rem;
+}
+
+.usa-search--small .usa-input {
+    border-radius: 5px;
+}
+
+// .usa-button {
+//     background-color: $theme-fsdp-base-color;
+
+//     &:hover {
+//         background-color: $theme-fsdp-base-color;
+//     }
+// }
+
+.usa-nav__submenu {
+    background-color: color("gray-1");
+    border: 1px solid;
+    color: color("gray-10");
+}
+
+.usa-nav__submenu {
+    background-color: color("gray-1");
+    border: 1px solid;
+    color: color("gray-10");
+
+    .usa-nav__submenu-item {
+        a {
+            color: color("gray-90");
+
+            &:hover {
+                color: color("gray-70");
+            }
+        }
+    }
+}
+
+.usa-nav__primary-item {
+    &:hover {
+        background-color: color("gray-5");
+    }
+
+    a {
+        &:focus {
+            outline: 0.15rem solid;
+            color: $theme-fsdp-base-color;
+        }
+    }
+}
+
+.usa-header--extended {
+    .usa-nav__primary-item {
+        >.usa-nav__link {
+            &:hover {
+                &::after {
+                    background-color: $theme-fsdp-base-color;
+                }
+            }
+        }
+    }
+}
+
+.usa-nav__primary {
+    button[aria-expanded=true] {
+        background-color: color("gray-5");
+        color: color("gray-90");
+    }
+
+    >.usa-nav__primary-item {
+        >a {
+            &:hover {
+                color: $theme-fsdp-base-color;
+            }
+        }
+    }
+
+    button {
+        &:hover {
+            color: $theme-fsdp-base-color;
+        }
+
+        &:focus {
+            outline: 0.15rem solid;
+            color: $theme-fsdp-base-color;
+        }
+    }
+}
+
+.usa-nav__close {
+    button {
+        &:focus {
+            outline: 0.15rem solid;
+            color: $theme-fsdp-base-color;
+        }
+    }
+}

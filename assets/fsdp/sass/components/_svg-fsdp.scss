@@ -1,0 +1,94 @@
+/*
+* ==> FSDP SVG Theme
+*/
+
+
+
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+
+.fsdp-landing-icon {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    vertical-align: middle;
+    width: 120px;
+    height: 120px;
+    background: $theme-fsdp-landing-icon;
+    border-radius: 50%;
+}
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+
+.github {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 2em;
+    width: 2em;
+    margin-bottom: -0.6em;
+}
+
+.how-to-use-fsdp {
+    @media (max-width: 332px) {
+        width: 12em;
+    }
+}
+
+/*
+----------------------------------------
+FSDP all Components fontawesome
+----------------------------------------
+*/
+
+// FSDP Accordion
+.fs-accordion-icon {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 1em;
+    width: 1.3em;
+    transform: translate(-8px, 2px);
+    color: #406012;
+}
+
+// FSDP Tab
+.fs-tab-icon {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 1em;
+    width: 1.3em;
+    transform: translate(-8px, 2px);
+    color: #406012;
+}
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+
+.Technicaldebt {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 100%;
+    height: auto;
+    transform: translateX(-20%);
+}
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+
+.angularMaterialDesign {
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,53 @@
+/*
+* ==> FSDP Side Navigation Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-section {
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+
+.usa-sidenav a:not(.usa-button):hover {
+    background-color: color("gray-5");
+    color: $theme-fsdp-base-color;
+}
+
+.usa-sidenav {
+    a {
+        color: color("gray-60");
+    }
+
+    .usa-current {
+        color: $theme-fsdp-base-color;
+
+        &::after {
+            background-color: $theme-fsdp-base-color;
+        }
+    }
+}
+
+.usa-nav__primary button:hover,
+.usa-nav__primary>.usa-nav__primary-item>a:hover,
+.usa-sidenav .usa-current {
+    color: $theme-fsdp-side-nav;
+}
+
+@media (min-width: 40em) {
+    .usa-sidenav {
+        .usa-current {
+            &::after {
+                background-color: $theme-fsdp-base-color;
+            }
+        }
+    }
+}
+
+@media(max-width:1023px) {
+    .site-sidenav {
+        display: none;
+    }
+}

@@ -1,0 +1,108 @@
+/*
+* ==> FSDP Chart Theme
+*/
+
+
+
+/*
+--------------------------------
+Bar Chart
+--------------------------------
+*/
+
+.st0 {
+    fill: $theme-fsdp-bar-chart-st0;
+}
+
+.st1 {
+    font-family: 'MyriadPro-Regular';
+}
+
+.st2 {
+    font-size: 28.6875px;
+}
+
+.st3 {
+    fill: $theme-fsdp-bar-chart-st3;
+    stroke: $theme-fsdp-bar-chart-st3;
+    stroke-miterlimit: 10;
+}
+
+.st3a {
+    fill: $theme-fsdp-bar-chart-st3a;
+    stroke: $theme-fsdp-bar-chart-st3a;
+    stroke-miterlimit: 10;
+}
+
+.st4 {
+    fill: $theme-fsdp-bar-chart-st4;
+}
+
+.st5 {
+    letter-spacing: -2;
+}
+
+.font-lang-xl-m {
+    font-size: 25px
+}
+
+/*
+--------------------------------
+Line Chart
+--------------------------------
+*/
+
+.line-st0 {
+    fill: none;
+    stroke: $theme-fsdp-line-chart-line-st0;
+    stroke-miterlimit: 10;
+}
+
+.line-st0-light {
+    fill: none;
+    stroke: $theme-fsdp-line-chart-line-st0-light;
+    stroke-miterlimit: 10;
+}
+
+.line-st2 {
+    font-size: 27px;
+}
+
+.line-st3 {
+    fill: none;
+    stroke: $theme-fsdp-line-chart-line-st3;
+    stroke-width: 5;
+    stroke-miterlimit: 10;
+}
+
+.line-st4 {
+    fill: none;
+    stroke: $theme-fsdp-line-chart-line-st4;
+    stroke-width: 5;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.line-st5 {
+    fill: none;
+    stroke: $theme-fsdp-line-chart-line-st5;
+    stroke-width: 6;
+    stroke-linecap: round;
+    stroke-miterlimit: 10;
+}
+
+.line-st6 {
+    fill: $theme-fsdp-line-chart-line-st6;
+}
+
+.line-st7 {
+    fill: $theme-fsdp-line-chart-line-st7;
+}
+
+.line-st8 {
+    font-size: 24px;
+}
+
+.font-svg-main {
+    font-size: 26px;
+}

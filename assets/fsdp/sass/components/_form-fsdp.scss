@@ -1,0 +1,70 @@
+/*
+* ==> FSDP Form Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-form {
+    max-width: 50rem;
+}
+
+.usa-input,
+.usa-textarea {
+    border-radius: 5px;
+    border-color: $theme-fsdp-form-border-gray;
+    resize: none;
+}
+
+.usa-character-count__message {
+    float: right;
+}
+
+.usa-form {
+    &.usa-form--large {
+        max-width: 45rem;
+    }
+}
+
+.usa-select {
+    background-image: url("../img/arrow-both.svg"), linear-gradient(transparent, transparent);
+    background-size: 0.8rem;
+    border-radius: 5px;
+    border-color: $theme-fsdp-form-border-gray;
+    color: $theme-fsdp-form-text-ash;
+}
+
+.usa-error-message {
+    color: $theme-fsdp-form-input-group-error;
+    display: block;
+    font-weight: normal;
+}
+
+.usa-combo-box__input {
+    border-radius: 5px;
+}
+
+.usa-combo-box__toggle-list {
+    background-image: url("../img/down-arrow.svg"), linear-gradient(transparent, transparent);
+    background-size: auto 1rem;
+}
+
+.usa-combo-box__input-button-separator {
+    background-color: #ffffff;
+}
+
+.fs-select {
+    background-image: url("../img/arrow-both.svg"), linear-gradient(transparent, transparent);
+}
+
+.usa-radio__input:checked+.usa-radio__label::before {
+    background-color: $theme-fsdp-rb-active;
+    box-shadow: 0 0 0 2px $theme-fsdp-rb-active, inset 0 0 0 2px color("gray-1");
+}
+
+.usa-checkbox__input:checked+.usa-checkbox__label::before {
+    background-color: $theme-fsdp-cb-active;
+    box-shadow: 0 0 0 2px $theme-fsdp-cb-active;
+    background-image: url("../img/correct8.svg"), linear-gradient(transparent, transparent);
+}

@@ -1,0 +1,53 @@
+/*
+* ==> FSDP Tag Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-tag {
+    padding: 0.10px 1rem;
+    margin: 10px;
+
+    &.fs-tag-green {
+        background-color: $theme-fsdp-standard-tag-green;
+    }
+
+    &.fs-tag-brown {
+        background-color: $theme-fsdp-standard-tag-brown;
+    }
+
+    &.fs-tag-goldenrod {
+        background-color: $theme-fsdp-standard-tag-goldenrod;
+        color: color("gray-90");
+    }
+
+    &.fs-tag-light-green {
+        background-color: $theme-fsdp-standard-tag-light-green;
+        color: color("gray-90");
+    }
+
+    &.fs-tag-default {
+        background-color: $theme-fsdp-standard-tag-default;
+    }
+
+    &.fs-tag-error {
+        background-color: $theme-fsdp-state-tag-error;
+    }
+
+    &.fs-tag-warning {
+        background-color: $theme-fsdp-state-tag-warning;
+        color: color("gray-90");
+    }
+
+    &.fs-tag-success {
+        background-color: $theme-fsdp-state-tag-success;
+        color: color("gray-90");
+    }
+
+    &.fs-tag-info {
+        background-color: $theme-fsdp-state-tag-info;
+        color: color("gray-90");
+    }
+}

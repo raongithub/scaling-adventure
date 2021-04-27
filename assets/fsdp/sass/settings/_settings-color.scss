@@ -1,0 +1,248 @@
+// Base Colors
+$fsdp-green: #006633;
+
+
+
+// Global Colors
+$fsdp-focus-grey: #b0b7b3;
+
+
+
+// Global Font
+.site-page-title {
+    font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+    font-weight: 100;
+    color: #555555;
+}
+
+
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+
+$fsdp-link: #006633;
+
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+
+$fsdp-landing-bg: rgb(255 255 255 / 56%);
+$fsdp-landing-bg-border: #adadad;
+$fsdp-landing-img: #333333;
+$fsdp-landing-img-bg: #216e1f;
+$fsdp-landing-icon: #ffffff;
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+
+$fsdp-hr-border:#006633;
+$fsdp-how-to-use-h4: #333333;
+$fsdp-how-to-use-h3: #333333;
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+
+$fsdp-standard-link: #006633;
+
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+
+$fsdp-behavior-page-link: #006633;
+
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+
+$fsdp-support-page-link: #006633;
+
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+
+$fsdp-human-centered-page-link: #006633;
+
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+
+$fsdp-box-border: #474747;
+$fsdp-green-box: #216e1f;
+$fsdp-brown-box: #8e704f;
+$fsdp-gold-box: #ffbe2e;
+$fsdp-box-dark: #3d4551;
+$fsdp-box-gray: #757575;
+$fsdp-box-lighter: #dfe1e2;
+$fsdp-box-green-light: #9bb672;
+$fsdp-box-green-dark: #538200;
+$fsdp-box-gold-light: #F1e5cd;
+
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+
+$fsdp-branding-page-link: #006633;
+
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+
+$fsdp-box-background: #ECECEC;
+$fsdp-about-page-link: #006633;
+
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+
+$fsdp-in-que-tag: #9bb672;
+
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+
+
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+
+// FSDP Accordion Colors
+$fsdp-accordion-green: #4c6424;
+
+// FSDP Default Button Colors
+$fsdp-primary-default:#406012;
+$fsdp-primary-button-focus-border:#75b10e;
+$fsdp-primary-button-hover: #7a591a;
+$fsdp-primary-button-active: #525252;
+$fsdp-primary-button-disabled: #c9c9c9;
+
+// FSDP Secondary Button Colors
+$fsdp-secondary-button-default: #466c04;
+$fsdp-secondary-button-hover: #7a591a;
+$fsdp-secondary-button-active: #5c5c5c;
+
+// FSDP Accent Cool Button Colors
+$fsdp-accent-cool-button-default: #0e5b80;
+$fsdp-accent-cool-button-hover: #2897c2;
+$fsdp-accent-cool-button-active: #18b7dd;
+
+// FSDP Accent Warm Button Colors
+$fsdp-accent-warm-button-default:#826447;
+$fsdp-accent-warm-button-hover:#feb336;
+$fsdp-accent-warm-button-active:#fee07f;
+
+// FSDP Base Button Colors
+$fsdp-base-button-default:#666b6f;
+$fsdp-base-button-hover:#4c525a;
+$fsdp-base-button-active:#353d47;
+
+// FSDP Outline Inverse Button Colors
+$fsdp-outline-inverse-button-default:#b5beb0;
+$fsdp-outline-inverse-button-hover: #7a591a;
+$fsdp-outline-inverse-button-background: #466c04;
+
+// FSDP Standard Tag Colors
+$fsdp-standard-tag-green: #006633;
+$fsdp-standard-tag-brown: #7a591a;
+$fsdp-standard-tag-goldenrod: #daa520;
+$fsdp-standard-tag-light-green: #648c35;
+$fsdp-standard-tag-default: #313335;
+
+//  FSDP State Tag Colors
+$fsdp-state-tag-error: #b50909;
+$fsdp-state-tag-warning: #ffbe2e;
+$fsdp-state-tag-success: #00a91c;
+$fsdp-state-tag-info: #00bde3;
+
+// FSDP Form Border Colors
+$fsdp-form-border-gray: #c7cbcd;
+
+// FSDP Form Text Colors
+$fsdp-form-text-ash: #777c80;
+
+// FSDP Form Input Groups Colors
+$fsdp-form-input-group-error: #b50909;
+
+// FSDP Form Controls Radio Button Colors
+$fsdp-rb-active: #4c6424;
+
+// FSDP Form Controls Checkbox Colors
+$fsdp-cb-active: #4c6424;
+
+// FSDP Grid
+$fsdp-grid-background: #e1f1e2;
+
+// FSDP Tab
+$fsdp-tab-border: #cccccc;
+$fsdp-tab-background: #cfd9be;
+$fsdp-tab-narrow-background: #efefef;
+$fsdp-tab-font: #3b3b3b;
+$fsdp-tab-font-background: #ffffff;
+
+// FSDP Side Navigation
+$fsdp-side-nav: #5c5c5c;
+
+// FSDP Tooltip Colors
+$fsdp-tooltip: #466c04;
+$fsdp-tooltip-hover: #7a591a;
+
+// FSDP Typography Colors
+$fsdp-typography-link :#006633;
+$fsdp-typography-link-visited : #7a591a;
+$fsdp-typography-link-external:#73b3e7;
+$fsdp-typography-dark-bg: #1c1d1f;
+
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+
+// Bar Chart
+$fsdp-bar-chart-st0: #1B1B1B;
+$fsdp-bar-chart-st3: #71767a;
+$fsdp-bar-chart-st3a: #dfe1e2;
+$fsdp-bar-chart-st4: #538200;
+
+// Line Chart
+$fsdp-line-chart-line-st0: #71767a;
+$fsdp-line-chart-line-st0-light: #8e704f;
+$fsdp-line-chart-line-st3: #8e704f;
+$fsdp-line-chart-line-st4: #9bb672;
+$fsdp-line-chart-line-st5: #9bb672;
+$fsdp-line-chart-line-st6: #ffbe2e;
+$fsdp-line-chart-line-st7: #538200;

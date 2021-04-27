@@ -1,0 +1,21 @@
+/*
+* ==> FSDP Table Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-table tbody .fs-table-row td,
+.fs-table-row th {
+    background-color: color("green-warm-5");
+}
+
+@media(max-width:500px) {
+    .usa-prose>table td,
+    .usa-prose>table th,
+    .usa-table td,
+    .usa-table th {
+        font-size: 10px;
+    }
+}

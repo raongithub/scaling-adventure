@@ -1,0 +1,387 @@
+/*
+* ==> FSDP Common Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+html {
+    font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    line-height: 1.9;
+}
+
+h1 {
+    font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+h3 {
+    color: $theme-fsdp-how-to-use-h3;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+h4 {
+    color: $theme-fsdp-how-to-use-h4;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    font-size: 1.1rem;
+    font-weight: 400;
+    font-style: italic;
+}
+
+hr.fs-usa {
+    border-top: 2px dotted $theme-fsdp-hr-border;
+}
+
+.usa-layout-docs__sidenav {
+    span {
+        line-height: 2;
+    }
+}
+
+.site-subheading {
+    text-transform: uppercase;
+    font-size: 0.81rem;
+    color: color("gray-cool-60");
+    letter-spacing: .025em;
+    margin-bottom: .5rem;
+    margin-top: 0;
+}
+
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+
+.usa-link:visited {
+    color: $theme-fsdp-link;
+}
+
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+
+.usa-hero {
+    background-image: url('../img/hero10.jpg');
+    padding-top: 5rem;
+    padding-bottom: 7rem;
+    color: $theme-fsdp-landing-img;
+}
+
+.usa-hero__callout {
+    background-color: $theme-fsdp-landing-bg;
+    border: 1px solid $theme-fsdp-landing-bg-border;
+    border-radius: 12px;
+    max-width: 100rem;
+}
+
+.fsdp-hero-content {
+    color: $theme-fsdp-landing-img;
+    font-size: 1.1rem;
+}
+
+.fsdp-home-button {
+    padding-top: 10px
+}
+
+.fsdp-card-title {
+    text-align: center;
+}
+
+.fsdp-home-card-button {
+    width: 80%;
+}
+
+.usa-section--dark {
+    background-color: $theme-fsdp-landing-img-bg;
+
+    h3 {
+        color: color("gray-1");
+    }
+
+}
+
+.fsdp-cio-ead-content {
+    font-weight: bold;
+}
+
+.fsdp-cio-ead-button {
+    text-align: left;
+}
+
+.usa-card__heading {
+    font-family: Roboto Mono, Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.usa-graphic-list__heading {
+    font-family: Roboto Mono, Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.usa-button-hero {
+    width: 98%;
+}
+
+@media(max-width: 950px) {
+    .usa-button {
+        font-size: 10px;
+    }
+}
+
+@media(max-width: 764px) and (min-width: 640px) {
+    .usa-button {
+        font-size: 5px;
+    }
+}
+
+.usa-media-block__body {
+    transform: translateX(5%);
+}
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+
+.hover\:text-primary:hover,
+.text-primary {
+    color: color("gray-90");
+}
+
+.how-to-use-fsdp-img {
+    float: right;
+}
+
+@media (max-width: 500px) {
+    .how-to-use-fsdp-img {
+        float: inherit;
+    }
+}
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+
+.fs-standard-link {
+    color: $theme-fsdp-standard-link;
+}
+
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+
+.fs-behavior-link {
+    color: $theme-fsdp-behavior-page-link;
+}
+
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+
+.fs-support-link {
+    color: $theme-fsdp-support-page-link;
+}
+
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+
+.fs-human-centered-link {
+    color: $theme-fsdp-human-centered-page-link;
+}
+
+.human-centered-design-img {
+    width: 100%;
+}
+
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+
+.fs-box-content {
+    height: 1rem;
+    margin-right: 1rem;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-green-box {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-green-box;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-brown-box {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-brown-box;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-gold-box {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-gold-box;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-text-base-darker {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-dark;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-bg-gray-50 {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-gray;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-bg-base-lighter {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-lighter;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-green-30 {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-green-light;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-green-50 {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-green-dark;
+    border: 1px $theme-fsdp-box-border;
+}
+
+.fs-gold-10 {
+    height: 5rem;
+    margin-right: 1rem;
+    background-color: $theme-fsdp-box-gold-light;
+    border: 1px $theme-fsdp-box-border;
+}
+
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+
+.usfs-seal-img {
+    width: 80px;
+}
+
+.usda-logo-img {
+    width: 100px;
+}
+
+.usfs-seal-with-tagline-img {
+    width: 300px;
+}
+
+.fs-branding-link {
+    color: $theme-fsdp-branding-page-link;
+}
+
+@media(max-width:340px) {
+    .fs-table-content {
+        font-size: 10px;
+    }
+}
+
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+
+.about-fsdp-box {
+    padding: 20px;
+    background-color: $theme-fsdp-box-background;
+    width: 100%;
+
+    &_head {
+        margin-left: 30px
+    }
+
+    &_content {
+        margin-top: -15px;
+        margin-left: 160px;
+        text-align: center;
+    }
+}
+
+.fs-about-link {
+    color: $theme-fsdp-about-page-link;
+}
+
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+
+.usa-tag.fs-in-que-tag {
+    background-color: $theme-fsdp-in-que-tag;
+    color: color("gray-90");
+}
+
+/*
+----------------------------------------
+Grid Component
+----------------------------------------
+*/
+
+.docs-grid-example .grid-row:not([class*=grid-gap]) [class*=grid-col] {
+    border: 1px solid;
+    padding: 1rem;
+}
+
+.docs-grid-example [class*=grid-col] {
+    background-color: $theme-fsdp-grid-background;
+    text-align: center;
+}
+
+.docs-grid-example [class*=grid-col] {
+    background-color: $theme-fsdp-grid-background;
+    text-align: center;
+}
+
+.docs-grid-example [class*=grid-gap] [class*=grid-col]>* {
+    background-color: color("gray-1");
+    border: 1px solid;
+    padding: 1rem;
+}
+
+.fsdp-grid-table {
+    overflow: scroll;
+}
+
+.fsdp-highlight {
+    overflow: scroll;
+}

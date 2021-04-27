@@ -1,0 +1,54 @@
+/*
+* ==> FSDP Card Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-card__container {
+    -webkit-box-shadow: 8px 9px 10px -5px rgba(191, 178, 191, 1);
+    -moz-box-shadow: 8px 9px 10px -5px rgba(191, 178, 191, 1);
+    box-shadow: 8px 9px 10px -5px rgba(191, 178, 191, 1);
+}
+
+.usa-card__footer {
+    padding-top: 3rem;
+}
+
+.usa-button {
+    &.fs-card-button {
+        padding: 0.75rem 2rem;
+    }
+
+    @media(max-width:310px) {
+        &.fs-card-button {
+            font-size: 13px;
+        }
+    }
+
+    &.fs-media-card-button {
+        padding: 0.75rem 5rem;
+        float: right;
+    }
+
+    &.fs-flag-card-button {
+        padding: 0.75rem 5rem;
+    }
+
+    &.fs-flag-card-right-button {
+        padding: 0.75rem 5rem;
+        float: right;
+    }
+}
+
+.fs-content-card {
+    min-height: 200px;
+}
+
+.fs-content-color-card {
+    border: 10px solid;
+    color: color("gray-1");
+    background: color("green-5");
+    min-height: 300px;
+}

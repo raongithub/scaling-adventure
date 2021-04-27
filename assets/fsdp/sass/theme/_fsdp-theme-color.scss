@@ -1,0 +1,236 @@
+@import "../settings/settings-color";
+
+// Base Colors
+$theme-fsdp-base-color: $fsdp-green;
+
+
+
+// Global Colors
+$theme-fsdp-focus-color: $fsdp-focus-grey;
+
+
+
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+
+$theme-fsdp-link: $fsdp-link;
+
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+
+$theme-fsdp-landing-bg: $fsdp-landing-bg;
+$theme-fsdp-landing-bg-border: $fsdp-landing-bg-border;
+$theme-fsdp-landing-img: $fsdp-landing-img;
+$theme-fsdp-landing-img-bg: $fsdp-landing-img-bg;
+$theme-fsdp-landing-icon: $fsdp-landing-icon;
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+
+$theme-fsdp-hr-border: $fsdp-hr-border;
+$theme-fsdp-how-to-use-h4: $fsdp-how-to-use-h4;
+$theme-fsdp-how-to-use-h3: $fsdp-how-to-use-h3;
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+
+$theme-fsdp-standard-link: $fsdp-standard-link;
+
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+
+$theme-fsdp-behavior-page-link: $fsdp-behavior-page-link;
+
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+
+$theme-fsdp-support-page-link: $fsdp-support-page-link;
+
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+
+$theme-fsdp-human-centered-page-link: $fsdp-human-centered-page-link;
+
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+
+$theme-fsdp-box-border: $fsdp-box-border;
+$theme-fsdp-green-box: $fsdp-green-box;
+$theme-fsdp-brown-box: $fsdp-brown-box;
+$theme-fsdp-gold-box: $fsdp-gold-box;
+$theme-fsdp-box-dark: $fsdp-box-dark;
+$theme-fsdp-box-gray: $fsdp-box-gray;
+$theme-fsdp-box-lighter: $fsdp-box-lighter;
+$theme-fsdp-box-green-light: $fsdp-box-green-light;
+$theme-fsdp-box-green-dark: $fsdp-box-green-dark;
+$theme-fsdp-box-gold-light: $fsdp-box-gold-light;
+
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+
+$theme-fsdp-branding-page-link: $fsdp-branding-page-link;
+
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+
+$theme-fsdp-box-background: $fsdp-box-background;
+$theme-fsdp-about-page-link: $fsdp-about-page-link;
+
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+
+$theme-fsdp-in-que-tag: $fsdp-in-que-tag;
+
+
+
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+
+// FSDP Accordion Colors
+$theme-fsdp-accordion-green: $fsdp-accordion-green;
+
+// FSDP Default Button Colors
+$theme-fsdp-primary-button-default: $fsdp-primary-default;
+$theme-fsdp-button-focus-border: $fsdp-primary-button-focus-border;
+$theme-fsdp-primary-button-hover: $fsdp-primary-button-hover;
+$theme-fsdp-primary-button-active: $fsdp-primary-button-active;
+$theme-fsdp-button-disabled: $fsdp-primary-button-disabled;
+
+// FSDP Secondary Button Colors
+$theme-fsdp-secondary-button-default: $fsdp-secondary-button-default;
+$theme-fsdp-secondary-button-hover: $fsdp-secondary-button-hover;
+$theme-fsdp-secondary-button-active: $fsdp-secondary-button-active;
+
+// FSDP Accent Cool Button Colors
+$theme-fsdp-accent-cool-button-default: $fsdp-accent-cool-button-default;
+$theme-fsdp-accent-cool-button-hover: $fsdp-accent-cool-button-hover;
+$theme-fsdp-accent-cool-button-active: $fsdp-accent-cool-button-active;
+
+// FSDP Accent Warm Button Colors
+$theme-fsdp-accent-warm-button-default: $fsdp-accent-warm-button-default;
+$theme-fsdp-accent-warm-button-hover: $fsdp-accent-warm-button-hover;
+$theme-fsdp-accent-warm-button-active: $fsdp-accent-warm-button-active;
+
+// FSDP Base Button Colors
+$theme-fsdp-base-button-default: $fsdp-base-button-default;
+$theme-fsdp-base-button-hover: $fsdp-base-button-hover;
+$theme-fsdp-base-button-active: $fsdp-base-button-active;
+
+// FSDP Outline Inverse Button Colors
+$theme-fsdp-outline-inverse-button-default: $fsdp-outline-inverse-button-default;
+$theme-fsdp-outline-inverse-button-hover: $fsdp-outline-inverse-button-hover;
+$theme-fsdp-outline-inverse-button-background: $fsdp-outline-inverse-button-background;
+
+// FSDP Standard Tag Colors
+$theme-fsdp-standard-tag-green: $fsdp-standard-tag-green;
+$theme-fsdp-standard-tag-brown: $fsdp-standard-tag-brown;
+$theme-fsdp-standard-tag-goldenrod: $fsdp-standard-tag-goldenrod;
+$theme-fsdp-standard-tag-light-green: $fsdp-standard-tag-light-green;
+$theme-fsdp-standard-tag-default: $fsdp-standard-tag-default;
+
+//  FSDP State Tag Colors
+$theme-fsdp-state-tag-error: $fsdp-state-tag-error;
+$theme-fsdp-state-tag-warning: $fsdp-state-tag-warning;
+$theme-fsdp-state-tag-success: $fsdp-state-tag-success;
+$theme-fsdp-state-tag-info: $fsdp-state-tag-info;
+
+// FSDP Form Border Colors
+$theme-fsdp-form-border-gray: $fsdp-form-border-gray;
+
+// FSDP Form Text Colors
+$theme-fsdp-form-text-ash: $fsdp-form-text-ash;
+
+// FSDP Form Input Groups Colors
+$theme-fsdp-form-input-group-error: $fsdp-form-input-group-error;
+
+// FSDP Form Controls Radio Button Colors
+$theme-fsdp-rb-active: $fsdp-rb-active;
+
+// FSDP Form Controls Checkbox Colors
+$theme-fsdp-cb-active: $fsdp-cb-active;
+
+// FSDP Grid
+$theme-fsdp-grid-background: $fsdp-grid-background;
+
+// FSDP Tab
+$theme-fsdp-tab-border: $fsdp-tab-border;
+$theme-fsdp-tab-background: $fsdp-tab-background;
+$theme-fsdp-tab-narrow-background: $fsdp-tab-narrow-background;
+$theme-fsdp-tab-font: $fsdp-tab-font;
+$theme-fsdp-tab-font-background: $fsdp-tab-font-background;
+
+// FSDP Side Navigation
+$theme-fsdp-side-nav: $fsdp-side-nav;
+
+// FSDP Tooltip Colors
+$theme-fsdp-tooltip: $fsdp-tooltip;
+$theme-fsdp-tooltip-hover: $fsdp-tooltip-hover;
+
+// FSDP Typography Colors
+$theme-fsdp-typography-link: $fsdp-typography-link;
+$theme-fsdp-typography-link-visited: $fsdp-typography-link-visited;
+$theme-fsdp-typography-link-external: $fsdp-typography-link-external;
+$theme-fsdp-typography-dark-bg: $fsdp-typography-dark-bg;
+
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+
+// Bar Chart
+$theme-fsdp-bar-chart-st0: $fsdp-bar-chart-st0;
+$theme-fsdp-bar-chart-st3: $fsdp-bar-chart-st3;
+$theme-fsdp-bar-chart-st3a: $fsdp-bar-chart-st3a;
+$theme-fsdp-bar-chart-st4: $fsdp-bar-chart-st4;
+
+// Line Chart
+$theme-fsdp-line-chart-line-st0: $fsdp-line-chart-line-st0;
+$theme-fsdp-line-chart-line-st0-light: $fsdp-line-chart-line-st0-light;
+$theme-fsdp-line-chart-line-st3: $fsdp-line-chart-line-st3;
+$theme-fsdp-line-chart-line-st4: $fsdp-line-chart-line-st4;
+$theme-fsdp-line-chart-line-st5: $fsdp-line-chart-line-st5;
+$theme-fsdp-line-chart-line-st6: $fsdp-line-chart-line-st6;
+$theme-fsdp-line-chart-line-st7: $fsdp-line-chart-line-st7;

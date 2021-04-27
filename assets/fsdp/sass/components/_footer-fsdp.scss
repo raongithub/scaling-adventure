@@ -1,0 +1,79 @@
+/*
+* ==> FSDP Footer Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-breadcrumb__link:visited,
+.usa-footer__return-to-top a,
+.usa-footer__return-to-top a:hover,
+.usa-footer__return-to-top a:visited {
+    color: $theme-fsdp-base-color;
+}
+
+.usa-footer {
+    &__primary-section {
+        background-color: color("gray-50");
+    }
+
+    &__primary-link {
+        color: color("gray-2");
+    }
+
+    &__logo-img {
+        max-width: 20rem;
+
+        @media(max-width: 582px) {
+            max-width: 13rem;
+        }
+    }
+}
+
+.usa-social-link {
+    background-color: rgb(0 0 0 / 0%);
+
+    &--facebook {
+        background-image: url("../img/facebook25.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+        background-image: url("../img/facebook25.png"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+    }
+
+    &--twitter {
+        background-image: url("../img/twitter16.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+        background-image: url("../img/twitter16.png"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+    }
+
+    &--youtube {
+        background-image: url("../img/youtube15.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+        background-image: url("../img/youtube15.png"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+    }
+
+    &--rss {
+        background-image: url("../img/rss25.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+        background-image: url("../img/rss25.png"), linear-gradient(transparent, transparent);
+        background-repeat: no-repeat;
+    }
+}
+
+.usa-footer__contact-heading {
+    font-size: 1.2rem;
+    color: color("gray-90");
+}
+
+.fs-footer-address {
+    line-height: 30px;
+    font-weight: 600;
+    color: color("gray-70");
+
+    a {
+        color: color("gray-70");
+    }
+}
+
+.usa-footer--slim .usa-footer__logo-img {
+    max-width: 19rem;
+}

@@ -1,0 +1,51 @@
+/*
+* ==> FSDP Accordion Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.fs-accordion__button.usa-accordion__button {
+    border-radius: 5px;
+    background-color: color("gray-1");
+    color: $theme-fsdp-accordion-green;
+    border: 1px solid;
+    font-weight: 100;
+    background-image: url(../img/up-arrow.svg), linear-gradient(transparent, transparent);
+    background-size: 1rem;
+}
+
+.fs-accordion__button.usa-accordion__button[aria-expanded=false] {
+    color: $theme-fsdp-accordion-green;
+    background-image: url(../img/down-arrow.svg), linear-gradient(transparent, transparent);
+    background-size: 1rem;
+}
+
+.fs-accordion__button.fs-accordion-button__frame {
+    background-color: color("green-10");
+
+    &:hover {
+        color: $theme-fsdp-accordion-green;
+        background-color: color("green-10");
+    }
+}
+
+.fs-accordion__button.fs-accordion-button-da__rollover {
+    background-color: color("gray-5");
+    color: $theme-fsdp-accordion-green;
+}
+
+.fs-accordion__button.fs-accordion-button-ba__rollover {
+    background-color: color("gray-5");
+    color: $theme-fsdp-accordion-green;
+
+    &:hover {
+        background-color: color("gray-5");
+        color: $theme-fsdp-accordion-green;
+    }
+}
+
+.fs-accordion__button.fs-accordion__content-expanded__color {
+    background-color: color("gray-5");
+}

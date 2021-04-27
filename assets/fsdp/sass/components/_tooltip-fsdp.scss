@@ -1,0 +1,53 @@
+/*
+* ==> FSDP Tooltip Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-tooltip__body {
+    background-color: color("gray-1");
+    box-shadow: 2px 2px 38px -2px rgba(133, 133, 133, 1);
+    color: color("gray-90");
+}
+
+.usa-tooltip__body--top:after {
+    border-top: 5px solid color("gray-1");
+}
+
+.usa-tooltip__trigger {
+    background-color: $theme-fsdp-tooltip;
+
+    &:hover {
+        background-color: $theme-fsdp-tooltip;
+    }
+
+    &:active {
+        background-color: $theme-fsdp-tooltip;
+    }
+}
+
+.usa-tooltip__body--left:after {
+    border-left: 5px solid color("gray-1");
+}
+
+.usa-tooltip__body--right:after {
+    border-right: 5px solid color("gray-1");
+}
+
+.usa-tooltip__body--bottom:after {
+    border-bottom: 5px solid color("gray-1");
+}
+
+@media(max-width:400px) {
+    .usa-tooltip__trigger {
+        line-height: 1.5;
+    }
+}
+
+.usa-tooltip__trigger {
+    &:hover {
+        background-color: #7a591a;
+    }
+}

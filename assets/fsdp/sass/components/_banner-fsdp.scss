@@ -1,0 +1,59 @@
+/*
+* ==> FSDP Banner Theme
+*/
+
+
+
+@import "../theme/fsdp-theme-color";
+
+.usa-banner__button[aria-expanded=true]::after {
+    background-color: $theme-fsdp-base-color;
+
+    @media (max-width:639px) {
+        background-color: $theme-fsdp-base-color;
+    }
+
+    &::before {
+        background-color: $theme-fsdp-base-color;
+    }
+}
+
+.usa-banner__header-action {
+    color: $theme-fsdp-base-color;
+
+    &:hover {
+        color: $theme-fsdp-base-color;
+    }
+
+    &::after {
+        @media (max-width:639px) {
+            background-color: $theme-fsdp-base-color;
+        }
+    }
+}
+
+.usa-banner__button {
+    color: $theme-fsdp-base-color;
+
+    &:hover {
+        color: $theme-fsdp-base-color;
+    }
+
+    &:focus {
+        color: $theme-fsdp-base-color;
+    }
+
+    &::after {
+        background: 0 0;
+        background-color: $theme-fsdp-base-color;
+    }
+}
+
+button:not([disabled]):focus,
+input:not([disabled]):focus,
+select:not([disabled]):focus,
+a:not([disabled]):focus,
+textarea:not([disabled]):focus {
+    outline: .15rem dotted $theme-fsdp-base-color;
+    outline-offset: 0;
+}

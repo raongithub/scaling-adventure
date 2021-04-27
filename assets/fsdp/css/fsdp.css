@@ -1,0 +1,3903 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+FSDP 1.1.0
+----------------------------------------
+COLOR SETTINGS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Theme palette colors
+----------------------------------------
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+/*
+* ==> FSDP Common Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+html {
+  font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  line-height: 1.9;
+}
+
+h1 {
+  font-family: Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+h3 {
+  color: #333333;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+h4 {
+  color: #333333;
+  line-height: 1.5;
+  letter-spacing: 0.5px;
+  font-size: 1.1rem;
+  font-weight: 400;
+  font-style: italic;
+}
+
+hr.fs-usa {
+  border-top: 2px dotted #006633;
+}
+
+.usa-layout-docs__sidenav span {
+  line-height: 2;
+}
+
+.site-subheading {
+  text-transform: uppercase;
+  font-size: 0.81rem;
+  color: color("gray-cool-60");
+  letter-spacing: 0.025em;
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+.usa-link:visited {
+  color: #006633;
+}
+
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+.usa-hero {
+  background-image: url("../img/hero10.jpg");
+  padding-top: 5rem;
+  padding-bottom: 7rem;
+  color: #333333;
+}
+
+.usa-hero__callout {
+  background-color: rgba(255, 255, 255, 0.56);
+  border: 1px solid #adadad;
+  border-radius: 12px;
+  max-width: 100rem;
+}
+
+.fsdp-hero-content {
+  color: #333333;
+  font-size: 1.1rem;
+}
+
+.fsdp-home-button {
+  padding-top: 10px;
+}
+
+.fsdp-card-title {
+  text-align: center;
+}
+
+.fsdp-home-card-button {
+  width: 80%;
+}
+
+.usa-section--dark {
+  background-color: #216e1f;
+}
+.usa-section--dark h3 {
+  color: color("gray-1");
+}
+
+.fsdp-cio-ead-content {
+  font-weight: bold;
+}
+
+.fsdp-cio-ead-button {
+  text-align: left;
+}
+
+.usa-card__heading {
+  font-family: Roboto Mono, Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.usa-graphic-list__heading {
+  font-family: Roboto Mono, Public Sans Web, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+.usa-button-hero {
+  width: 98%;
+}
+
+@media (max-width: 950px) {
+  .usa-button {
+    font-size: 10px;
+  }
+}
+@media (max-width: 764px) and (min-width: 640px) {
+  .usa-button {
+    font-size: 5px;
+  }
+}
+.usa-media-block__body {
+  transform: translateX(5%);
+}
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+.hover\:text-primary:hover,
+.text-primary {
+  color: color("gray-90");
+}
+
+.how-to-use-fsdp-img {
+  float: right;
+}
+
+@media (max-width: 500px) {
+  .how-to-use-fsdp-img {
+    float: inherit;
+  }
+}
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+.fs-standard-link {
+  color: #006633;
+}
+
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+.fs-behavior-link {
+  color: #006633;
+}
+
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+.fs-support-link {
+  color: #006633;
+}
+
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+.fs-human-centered-link {
+  color: #006633;
+}
+
+.human-centered-design-img {
+  width: 100%;
+}
+
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+.fs-box-content {
+  height: 1rem;
+  margin-right: 1rem;
+  border: 1px #474747;
+}
+
+.fs-green-box {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #216e1f;
+  border: 1px #474747;
+}
+
+.fs-brown-box {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #8e704f;
+  border: 1px #474747;
+}
+
+.fs-gold-box {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #ffbe2e;
+  border: 1px #474747;
+}
+
+.fs-text-base-darker {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #3d4551;
+  border: 1px #474747;
+}
+
+.fs-bg-gray-50 {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #757575;
+  border: 1px #474747;
+}
+
+.fs-bg-base-lighter {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #dfe1e2;
+  border: 1px #474747;
+}
+
+.fs-green-30 {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #9bb672;
+  border: 1px #474747;
+}
+
+.fs-green-50 {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #538200;
+  border: 1px #474747;
+}
+
+.fs-gold-10 {
+  height: 5rem;
+  margin-right: 1rem;
+  background-color: #F1e5cd;
+  border: 1px #474747;
+}
+
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+.usfs-seal-img {
+  width: 80px;
+}
+
+.usda-logo-img {
+  width: 100px;
+}
+
+.usfs-seal-with-tagline-img {
+  width: 300px;
+}
+
+.fs-branding-link {
+  color: #006633;
+}
+
+@media (max-width: 340px) {
+  .fs-table-content {
+    font-size: 10px;
+  }
+}
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+.about-fsdp-box {
+  padding: 20px;
+  background-color: #ECECEC;
+  width: 100%;
+}
+.about-fsdp-box_head {
+  margin-left: 30px;
+}
+.about-fsdp-box_content {
+  margin-top: -15px;
+  margin-left: 160px;
+  text-align: center;
+}
+
+.fs-about-link {
+  color: #006633;
+}
+
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+.usa-tag.fs-in-que-tag {
+  background-color: #9bb672;
+  color: color("gray-90");
+}
+
+/*
+----------------------------------------
+Grid Component
+----------------------------------------
+*/
+.docs-grid-example .grid-row:not([class*=grid-gap]) [class*=grid-col] {
+  border: 1px solid;
+  padding: 1rem;
+}
+
+.docs-grid-example [class*=grid-col] {
+  background-color: #e1f1e2;
+  text-align: center;
+}
+
+.docs-grid-example [class*=grid-col] {
+  background-color: #e1f1e2;
+  text-align: center;
+}
+
+.docs-grid-example [class*=grid-gap] [class*=grid-col] > * {
+  background-color: color("gray-1");
+  border: 1px solid;
+  padding: 1rem;
+}
+
+.fsdp-grid-table {
+  overflow: scroll;
+}
+
+.fsdp-highlight {
+  overflow: scroll;
+}
+
+/*
+* ==> FSDP Accordion Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.fs-accordion__button.usa-accordion__button {
+  border-radius: 5px;
+  background-color: color("gray-1");
+  color: #4c6424;
+  border: 1px solid;
+  font-weight: 100;
+  background-image: url(../img/up-arrow.svg), linear-gradient(transparent, transparent);
+  background-size: 1rem;
+}
+
+.fs-accordion__button.usa-accordion__button[aria-expanded=false] {
+  color: #4c6424;
+  background-image: url(../img/down-arrow.svg), linear-gradient(transparent, transparent);
+  background-size: 1rem;
+}
+
+.fs-accordion__button.fs-accordion-button__frame {
+  background-color: color("green-10");
+}
+.fs-accordion__button.fs-accordion-button__frame:hover {
+  color: #4c6424;
+  background-color: color("green-10");
+}
+
+.fs-accordion__button.fs-accordion-button-da__rollover {
+  background-color: color("gray-5");
+  color: #4c6424;
+}
+
+.fs-accordion__button.fs-accordion-button-ba__rollover {
+  background-color: color("gray-5");
+  color: #4c6424;
+}
+.fs-accordion__button.fs-accordion-button-ba__rollover:hover {
+  background-color: color("gray-5");
+  color: #4c6424;
+}
+
+.fs-accordion__button.fs-accordion__content-expanded__color {
+  background-color: color("gray-5");
+}
+
+/*
+* ==> FSDP Banner Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-banner__button[aria-expanded=true]::after {
+  background-color: #006633;
+}
+@media (max-width: 639px) {
+  .usa-banner__button[aria-expanded=true]::after {
+    background-color: #006633;
+  }
+}
+.usa-banner__button[aria-expanded=true]::after::before {
+  background-color: #006633;
+}
+
+.usa-banner__header-action {
+  color: #006633;
+}
+.usa-banner__header-action:hover {
+  color: #006633;
+}
+@media (max-width: 639px) {
+  .usa-banner__header-action::after {
+    background-color: #006633;
+  }
+}
+
+.usa-banner__button {
+  color: #006633;
+}
+.usa-banner__button:hover {
+  color: #006633;
+}
+.usa-banner__button:focus {
+  color: #006633;
+}
+.usa-banner__button::after {
+  background: 0 0;
+  background-color: #006633;
+}
+
+button:not([disabled]):focus,
+input:not([disabled]):focus,
+select:not([disabled]):focus,
+a:not([disabled]):focus,
+textarea:not([disabled]):focus {
+  outline: 0.15rem dotted #006633;
+  outline-offset: 0;
+}
+
+/*
+* ==> FSDP Button Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-button {
+  background-color: #406012;
+  line-height: 1.5;
+  font-weight: normal;
+  padding: 0.75rem 2rem;
+}
+.usa-button:hover, .usa-button.usa-button--hover {
+  background-color: #7a591a;
+}
+.usa-button:active, .usa-button.usa-button--active {
+  background-color: #525252;
+}
+.usa-button:focus {
+  outline: 0;
+}
+.usa-button.usa-focus {
+  outline: 0.15rem dotted #75b10e;
+}
+.usa-button.usa-button--secondary {
+  background: none;
+  color: #466c04;
+  box-shadow: inset 0 0 0 2px #466c04;
+}
+.usa-button.usa-button--secondary:hover, .usa-button.usa-button--secondary.usa-button--hover {
+  color: #7a591a;
+  box-shadow: inset 0 0 0 2px #7a591a;
+}
+.usa-button.usa-button--secondary:active, .usa-button.usa-button--secondary.usa-button--active {
+  color: #5c5c5c;
+  box-shadow: inset 0 0 0 2px #5c5c5c;
+}
+.usa-button.usa-button--secondary:disabled {
+  color: #c9c9c9;
+  box-shadow: inset 0 0 0 2px #c9c9c9;
+}
+.usa-button.usa-button--accent-cool {
+  background-color: #0e5b80;
+  color: #ffffff;
+}
+.usa-button.usa-button--accent-cool:hover, .usa-button.usa-button--accent-cool.usa-button--hover {
+  background-color: #2897c2;
+  color: #000000;
+}
+.usa-button.usa-button--accent-cool:active, .usa-button.usa-button--accent-cool.usa-button--active {
+  background-color: #18b7dd;
+  border: 1px solid #000000;
+  color: #000000;
+}
+.usa-button.usa-button--accent-warm {
+  background-color: #826447;
+  color: #ffffff;
+}
+.usa-button.usa-button--accent-warm:hover, .usa-button.usa-button--accent-warm.usa-button--hover {
+  background-color: #feb336;
+  color: #000000;
+}
+.usa-button.usa-button--accent-warm:active, .usa-button.usa-button--accent-warm.usa-button--active {
+  background-color: #fee07f;
+  border: 1px solid #000000;
+  color: #000000;
+}
+.usa-button.usa-button--base {
+  background-color: #666b6f;
+  color: #ffffff;
+}
+.usa-button.usa-button--base:hover, .usa-button.usa-button--base.usa-button--hover {
+  background-color: #4c525a;
+}
+.usa-button.usa-button--base:active, .usa-button.usa-button--base.usa-button--active {
+  background-color: #353d47;
+  border: 1px solid #000000;
+  color: #ffffff;
+}
+.usa-button.usa-button--outline, .usa-button.usa-button--inverse {
+  background: none;
+  color: #b5beb0;
+  box-shadow: inset 0 0 0 2px #b5beb0;
+}
+.usa-button.usa-button--outline.usa-button--hover, .usa-button.usa-button--inverse.usa-button--hover {
+  background-color: #7a591a;
+}
+.usa-button.usa-button--outline.usa-button--default:hover, .usa-button.usa-button--inverse.usa-button--default:hover {
+  color: #d0dacb;
+  box-shadow: inset 0 0 0 2px #e6f3de;
+}
+.usa-button.usa-button--outline.usa-focus:hover, .usa-button.usa-button--inverse.usa-focus:hover {
+  color: #d0dacb;
+  box-shadow: inset 0 0 0 2px #e6f3de;
+}
+
+.bg-base-darkest {
+  background-color: #466c04;
+}
+
+@media (max-width: 479px) {
+  .usa-button {
+    margin-top: 10px;
+  }
+}
+/*
+* ==> FSDP Card Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-card__container {
+  -webkit-box-shadow: 8px 9px 10px -5px #bfb2bf;
+  -moz-box-shadow: 8px 9px 10px -5px #bfb2bf;
+  box-shadow: 8px 9px 10px -5px #bfb2bf;
+}
+
+.usa-card__footer {
+  padding-top: 3rem;
+}
+
+.usa-button.fs-card-button {
+  padding: 0.75rem 2rem;
+}
+@media (max-width: 310px) {
+  .usa-button.fs-card-button {
+    font-size: 13px;
+  }
+}
+.usa-button.fs-media-card-button {
+  padding: 0.75rem 5rem;
+  float: right;
+}
+.usa-button.fs-flag-card-button {
+  padding: 0.75rem 5rem;
+}
+.usa-button.fs-flag-card-right-button {
+  padding: 0.75rem 5rem;
+  float: right;
+}
+
+.fs-content-card {
+  min-height: 200px;
+}
+
+.fs-content-color-card {
+  border: 10px solid;
+  color: color("gray-1");
+  background: color("green-5");
+  min-height: 300px;
+}
+
+/*
+* ==> FSDP Chart Theme
+*/
+/*
+--------------------------------
+Bar Chart
+--------------------------------
+*/
+.st0 {
+  fill: #1B1B1B;
+}
+
+.st1 {
+  font-family: "MyriadPro-Regular";
+}
+
+.st2 {
+  font-size: 28.6875px;
+}
+
+.st3 {
+  fill: #71767a;
+  stroke: #71767a;
+  stroke-miterlimit: 10;
+}
+
+.st3a {
+  fill: #dfe1e2;
+  stroke: #dfe1e2;
+  stroke-miterlimit: 10;
+}
+
+.st4 {
+  fill: #538200;
+}
+
+.st5 {
+  letter-spacing: -2;
+}
+
+.font-lang-xl-m {
+  font-size: 25px;
+}
+
+/*
+--------------------------------
+Line Chart
+--------------------------------
+*/
+.line-st0 {
+  fill: none;
+  stroke: #71767a;
+  stroke-miterlimit: 10;
+}
+
+.line-st0-light {
+  fill: none;
+  stroke: #8e704f;
+  stroke-miterlimit: 10;
+}
+
+.line-st2 {
+  font-size: 27px;
+}
+
+.line-st3 {
+  fill: none;
+  stroke: #8e704f;
+  stroke-width: 5;
+  stroke-miterlimit: 10;
+}
+
+.line-st4 {
+  fill: none;
+  stroke: #9bb672;
+  stroke-width: 5;
+  stroke-linecap: round;
+  stroke-miterlimit: 10;
+}
+
+.line-st5 {
+  fill: none;
+  stroke: #9bb672;
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-miterlimit: 10;
+}
+
+.line-st6 {
+  fill: #ffbe2e;
+}
+
+.line-st7 {
+  fill: #538200;
+}
+
+.line-st8 {
+  font-size: 24px;
+}
+
+.font-svg-main {
+  font-size: 26px;
+}
+
+/*
+* ==> FSDP Footer Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-breadcrumb__link:visited,
+.usa-footer__return-to-top a,
+.usa-footer__return-to-top a:hover,
+.usa-footer__return-to-top a:visited {
+  color: #006633;
+}
+
+.usa-footer__primary-section {
+  background-color: color("gray-50");
+}
+.usa-footer__primary-link {
+  color: color("gray-2");
+}
+.usa-footer__logo-img {
+  max-width: 20rem;
+}
+@media (max-width: 582px) {
+  .usa-footer__logo-img {
+    max-width: 13rem;
+  }
+}
+
+.usa-social-link {
+  background-color: rgba(0, 0, 0, 0);
+}
+.usa-social-link--facebook {
+  background-image: url("../img/facebook25.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+  background-image: url("../img/facebook25.png"), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+.usa-social-link--twitter {
+  background-image: url("../img/twitter16.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+  background-image: url("../img/twitter16.png"), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+.usa-social-link--youtube {
+  background-image: url("../img/youtube15.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+  background-image: url("../img/youtube15.png"), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+.usa-social-link--rss {
+  background-image: url("../img/rss25.svg"), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+  background-image: url("../img/rss25.png"), linear-gradient(transparent, transparent);
+  background-repeat: no-repeat;
+}
+
+.usa-footer__contact-heading {
+  font-size: 1.2rem;
+  color: color("gray-90");
+}
+
+.fs-footer-address {
+  line-height: 30px;
+  font-weight: 600;
+  color: color("gray-70");
+}
+.fs-footer-address a {
+  color: color("gray-70");
+}
+
+.usa-footer--slim .usa-footer__logo-img {
+  max-width: 19rem;
+}
+
+/*
+* ==> FSDP Form Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-form {
+  max-width: 50rem;
+}
+
+.usa-input,
+.usa-textarea {
+  border-radius: 5px;
+  border-color: #c7cbcd;
+  resize: none;
+}
+
+.usa-character-count__message {
+  float: right;
+}
+
+.usa-form.usa-form--large {
+  max-width: 45rem;
+}
+
+.usa-select {
+  background-image: url("../img/arrow-both.svg"), linear-gradient(transparent, transparent);
+  background-size: 0.8rem;
+  border-radius: 5px;
+  border-color: #c7cbcd;
+  color: #777c80;
+}
+
+.usa-error-message {
+  color: #b50909;
+  display: block;
+  font-weight: normal;
+}
+
+.usa-combo-box__input {
+  border-radius: 5px;
+}
+
+.usa-combo-box__toggle-list {
+  background-image: url("../img/down-arrow.svg"), linear-gradient(transparent, transparent);
+  background-size: auto 1rem;
+}
+
+.usa-combo-box__input-button-separator {
+  background-color: #ffffff;
+}
+
+.fs-select {
+  background-image: url("../img/arrow-both.svg"), linear-gradient(transparent, transparent);
+}
+
+.usa-radio__input:checked + .usa-radio__label::before {
+  background-color: #4c6424;
+  box-shadow: 0 0 0 2px #4c6424, inset 0 0 0 2px color("gray-1");
+}
+
+.usa-checkbox__input:checked + .usa-checkbox__label::before {
+  background-color: #4c6424;
+  box-shadow: 0 0 0 2px #4c6424;
+  background-image: url("../img/correct8.svg"), linear-gradient(transparent, transparent);
+}
+
+/*
+* ==> FSDP Header + Navigation Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-navbar {
+  display: inline;
+}
+
+.fsdp-logo {
+  height: 40px;
+  float: left;
+  margin-top: 2rem;
+}
+
+.usa-logo {
+  float: left;
+}
+@media (max-width: 64em) {
+  .usa-logo {
+    margin-top: 2.5rem;
+    display: block;
+  }
+}
+@media (max-width: 459px) {
+  .usa-logo {
+    margin-left: 0;
+  }
+}
+@media (max-width: 321px) {
+  .usa-logo {
+    margin-left: 1rem;
+  }
+}
+
+.usa-logo a {
+  margin: 20px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 27px;
+}
+@media (max-width: 459px) {
+  .usa-logo a {
+    font-size: 16px;
+  }
+}
+@media (max-width: 357px) {
+  .usa-logo a {
+    margin-left: 0;
+    font-size: 14px;
+  }
+}
+@media (max-width: 321px) {
+  .usa-logo a {
+    font-size: 20px;
+  }
+}
+@media (max-width: 276px) {
+  .usa-logo a {
+    font-size: 15px;
+  }
+}
+
+.mobile-logo {
+  display: none;
+}
+@media (max-width: 64em) {
+  .mobile-logo {
+    display: block;
+  }
+}
+@media (max-width: 321px) {
+  .mobile-logo {
+    display: none;
+  }
+}
+
+@media (max-width: 64em) {
+  .desktop-logo {
+    display: none;
+  }
+}
+
+.usa-menu-btn {
+  background-color: #006633;
+  color: color("gray-1");
+  float: right;
+  margin-top: 2rem;
+}
+.usa-menu-btn:hover {
+  background-color: #006633;
+}
+.usa-menu-btn:focus {
+  outline: 0.15rem solid;
+  color: #b0b7b3;
+}
+
+.usa-nav__secondary {
+  margin-bottom: 0.5rem;
+}
+
+.usa-search--small .usa-input {
+  border-radius: 5px;
+}
+
+.usa-nav__submenu {
+  background-color: color("gray-1");
+  border: 1px solid;
+  color: color("gray-10");
+}
+
+.usa-nav__submenu {
+  background-color: color("gray-1");
+  border: 1px solid;
+  color: color("gray-10");
+}
+.usa-nav__submenu .usa-nav__submenu-item a {
+  color: color("gray-90");
+}
+.usa-nav__submenu .usa-nav__submenu-item a:hover {
+  color: color("gray-70");
+}
+
+.usa-nav__primary-item:hover {
+  background-color: color("gray-5");
+}
+.usa-nav__primary-item a:focus {
+  outline: 0.15rem solid;
+  color: #006633;
+}
+
+.usa-header--extended .usa-nav__primary-item > .usa-nav__link:hover::after {
+  background-color: #006633;
+}
+
+.usa-nav__primary button[aria-expanded=true] {
+  background-color: color("gray-5");
+  color: color("gray-90");
+}
+.usa-nav__primary > .usa-nav__primary-item > a:hover {
+  color: #006633;
+}
+.usa-nav__primary button:hover {
+  color: #006633;
+}
+.usa-nav__primary button:focus {
+  outline: 0.15rem solid;
+  color: #006633;
+}
+
+.usa-nav__close button:focus {
+  outline: 0.15rem solid;
+  color: #006633;
+}
+
+/*
+* ==> FSDP Side Navigation Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-section {
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+}
+
+.usa-sidenav a:not(.usa-button):hover {
+  background-color: color("gray-5");
+  color: #006633;
+}
+
+.usa-sidenav a {
+  color: color("gray-60");
+}
+.usa-sidenav .usa-current {
+  color: #006633;
+}
+.usa-sidenav .usa-current::after {
+  background-color: #006633;
+}
+
+.usa-nav__primary button:hover,
+.usa-nav__primary > .usa-nav__primary-item > a:hover,
+.usa-sidenav .usa-current {
+  color: #5c5c5c;
+}
+
+@media (min-width: 40em) {
+  .usa-sidenav .usa-current::after {
+    background-color: #006633;
+  }
+}
+@media (max-width: 1023px) {
+  .site-sidenav {
+    display: none;
+  }
+}
+/*
+* ==> FSDP Tab Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.fs-tabs > input[type=radio] {
+  position: absolute;
+  left: -200vw;
+}
+
+.fs-tabs-narrow > input[type=radio] {
+  position: absolute;
+  left: -200vw;
+}
+
+.fs-tabs .fs-tab-panel {
+  display: none;
+}
+
+.fs-tabs-narrow .fs-tab-panel {
+  display: none;
+}
+
+.fs-tabs > input:first-child:checked ~ .fs-tab-panels > .fs-tab-panel:first-child,
+.fs-tabs > input:nth-child(3):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(2),
+.fs-tabs > input:nth-child(5):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(3),
+.fs-tabs > input:nth-child(7):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(4),
+.fs-tabs > input:nth-child(9):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(5),
+.fs-tabs > input:nth-child(11):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(6) {
+  display: block;
+  border: 1px solid #cccccc;
+}
+
+.fs-tabs-narrow > input:first-child:checked ~ .fs-tab-panels > .fs-tab-panel:first-child,
+.fs-tabs-narrow > input:nth-child(3):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(2),
+.fs-tabs-narrow > input:nth-child(5):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(3),
+.fs-tabs-narrow > input:nth-child(7):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(4),
+.fs-tabs-narrow > input:nth-child(9):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(5),
+.fs-tabs-narrow > input:nth-child(11):checked ~ .fs-tab-panels > .fs-tab-panel:nth-child(6) {
+  display: block;
+  border: 1px solid #cccccc;
+}
+
+.fs-tabs > label {
+  position: relative;
+  display: inline-block;
+  padding: 15px 6px 12px;
+  border: 1px solid transparent;
+  border-bottom: 0;
+  cursor: pointer;
+  font-weight: 600;
+  background: #cfd9be;
+  border-radius: 8px 8px 0px 0px;
+  width: 13.69em;
+  text-align: center;
+}
+
+.fs-tabs-narrow > label {
+  position: relative;
+  display: inline-block;
+  padding: 3px 66.41px;
+  border: 1px solid transparent;
+  border-bottom: 0;
+  cursor: pointer;
+  background: #efefef;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.fs-tabs > label::after {
+  content: "";
+  position: absolute;
+  left: 15px;
+  bottom: 10px;
+  width: 22px;
+  height: 4px;
+  background: none;
+}
+
+.fs-tabs-narrow > label::after {
+  content: "";
+  position: absolute;
+  left: 15px;
+  bottom: 10px;
+  width: 22px;
+  height: 4px;
+  background: none;
+}
+
+.fs-tabs > label:hover,
+.fs-tabs > input:focus + label {
+  color: #3b3b3b;
+  background: #ffffff;
+}
+
+.fs-tabs-narrow > label:hover,
+.fs-tabs-narrow > input:focus + label {
+  color: #3b3b3b;
+  background: #ffffff;
+}
+
+.fs-tabs > label:hover::after,
+.fs-tabs > input:focus + label::after,
+.fs-tabs > input:checked + label::after {
+  background: none;
+}
+
+.fs-tabs-narrow > label:hover::after,
+.fs-tabs-narrow > input:focus + label::after,
+.fs-tabs-narrow > input:checked + label::after {
+  background: none;
+}
+
+.fs-tabs > input:checked + label {
+  border-color: #cccccc;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: -1px;
+  background: #ffffff;
+}
+
+.fs-tabs-narrow > input:checked + label {
+  border-color: #cccccc;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: -1px;
+  background: #ffffff;
+}
+
+.fs-tab-panel {
+  padding: 0px 17px;
+  border-top: 1px solid #cccccc;
+}
+
+.fs-narrow-sub-tittle {
+  color: #3a8962;
+  font-size: 20px;
+}
+
+.fs-tab-panels {
+  margin-right: 9px;
+}
+
+@media (max-width: 1023px) {
+  .fs-tabs > label {
+    padding: 15px 6px 12px;
+    width: 19.32em;
+  }
+
+  .fs-tab-panels {
+    width: 58.4em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 114.1px 3px;
+  }
+}
+@media (max-width: 1020px) {
+  .fs-tabs > label {
+    width: 17.14em;
+  }
+
+  .fs-tab-panels {
+    width: 51.8em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 82.2px 3px;
+    width: 17.14em;
+  }
+}
+@media (max-width: 909px) {
+  .fs-tabs > label {
+    padding: 15px 6px 12px;
+    width: 16.1em;
+  }
+
+  .fs-tab-panels {
+    width: 48.7em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 66px 3px;
+    width: 16.1em;
+  }
+}
+@media (max-width: 861px) {
+  .fs-tabs > label {
+    padding: 15px 6px 12px;
+    width: 14.52em;
+  }
+
+  .fs-tab-panels {
+    width: 44em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 61.2px 3px;
+    width: 14.52em;
+  }
+}
+@media (max-width: 776px) {
+  .fs-tabs > label {
+    width: 12.04em;
+  }
+
+  .fs-tab-panels {
+    width: 36.5em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 41.2px 3px;
+    width: 12.04em;
+  }
+}
+@media (max-width: 649px) {
+  .fs-tabs > label {
+    width: 10.83em;
+  }
+
+  .fs-tab-panels {
+    width: 32.9em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 31.6px 3px;
+    width: 10.83em;
+  }
+}
+@media (max-width: 588px) {
+  .fs-tabs > label {
+    width: 10.18em;
+    font-size: 14px;
+  }
+
+  .fs-tab-panels {
+    width: 25.6em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 13.8px 3px;
+    width: 8.4em;
+  }
+}
+@media (max-width: 469px) {
+  .fs-tabs > label {
+    margin-top: 10px;
+    width: 20.12em;
+  }
+
+  .fs-tab-panels {
+    width: 16.6em;
+  }
+
+  .fs-tabs-narrow > label {
+    padding: 3px 6px 3px;
+    margin-top: 10px;
+    width: 16.6em;
+    text-align: center;
+  }
+}
+@media (max-width: 314px) {
+  .fs-tabs > label {
+    width: 100%;
+  }
+
+  .fs-tab-panels {
+    width: auto;
+    margin-right: 0px;
+  }
+
+  .fs-tabs-narrow > label {
+    width: 100%;
+  }
+}
+/*
+* ==> FSDP Table Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-table tbody .fs-table-row td,
+.fs-table-row th {
+  background-color: color("green-warm-5");
+}
+
+@media (max-width: 500px) {
+  .usa-prose > table td,
+.usa-prose > table th,
+.usa-table td,
+.usa-table th {
+    font-size: 10px;
+  }
+}
+/*
+* ==> FSDP Tag Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-tag {
+  padding: 0.1px 1rem;
+  margin: 10px;
+}
+.usa-tag.fs-tag-green {
+  background-color: #006633;
+}
+.usa-tag.fs-tag-brown {
+  background-color: #7a591a;
+}
+.usa-tag.fs-tag-goldenrod {
+  background-color: #daa520;
+  color: color("gray-90");
+}
+.usa-tag.fs-tag-light-green {
+  background-color: #648c35;
+  color: color("gray-90");
+}
+.usa-tag.fs-tag-default {
+  background-color: #313335;
+}
+.usa-tag.fs-tag-error {
+  background-color: #b50909;
+}
+.usa-tag.fs-tag-warning {
+  background-color: #ffbe2e;
+  color: color("gray-90");
+}
+.usa-tag.fs-tag-success {
+  background-color: #00a91c;
+  color: color("gray-90");
+}
+.usa-tag.fs-tag-info {
+  background-color: #00bde3;
+  color: color("gray-90");
+}
+
+/*
+* ==> FSDP Tooltip Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.usa-tooltip__body {
+  background-color: color("gray-1");
+  box-shadow: 2px 2px 38px -2px #858585;
+  color: color("gray-90");
+}
+
+.usa-tooltip__body--top:after {
+  border-top: 5px solid color("gray-1");
+}
+
+.usa-tooltip__trigger {
+  background-color: #466c04;
+}
+.usa-tooltip__trigger:hover {
+  background-color: #466c04;
+}
+.usa-tooltip__trigger:active {
+  background-color: #466c04;
+}
+
+.usa-tooltip__body--left:after {
+  border-left: 5px solid color("gray-1");
+}
+
+.usa-tooltip__body--right:after {
+  border-right: 5px solid color("gray-1");
+}
+
+.usa-tooltip__body--bottom:after {
+  border-bottom: 5px solid color("gray-1");
+}
+
+@media (max-width: 400px) {
+  .usa-tooltip__trigger {
+    line-height: 1.5;
+  }
+}
+.usa-tooltip__trigger:hover {
+  background-color: #7a591a;
+}
+
+/*
+* ==> FSDP Typography Theme
+*/
+.site-page-title {
+  font-family: Roboto, Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, sans-serif;
+  font-weight: 100;
+  color: #555555;
+}
+
+/*
+----------------------------------------
+COMMON FSDP SCSS START
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS END
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme 
+--------------------------------
+*/
+/*
+----------------------------------------
+COMMON FSDP SCSS
+----------------------------------------
+*/
+/*
+----------------------------------------
+Common Links
+----------------------------------------
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+/*
+----------------------------------------
+Behavior Patterns
+----------------------------------------
+*/
+/*
+----------------------------------------
+Support
+----------------------------------------
+*/
+/*
+----------------------------------------
+Human Centered Design
+----------------------------------------
+*/
+/*
+----------------------------------------
+Style Guide
+----------------------------------------
+*/
+/*
+----------------------------------------
+FS Branding
+----------------------------------------
+*/
+/*
+----------------------------------------
+About
+----------------------------------------
+*/
+/*
+----------------------------------------
+Product Road Map
+----------------------------------------
+*/
+/*
+----------------------------------------
+COMPONENTS COLOR SETTINGS
+----------------------------------------
+*/
+/*
+--------------------------------
+Chart Theme
+--------------------------------
+*/
+.bg-primary-lighter,
+.hover\:bg-primary-lighter:hover {
+  background-color: color("gray-1");
+}
+
+.usa-link {
+  color: #006633;
+}
+.usa-link.usa-color-text-visited {
+  color: fsdp-typography-link-visited;
+}
+.usa-link.usa-link--external {
+  color: #73b3e7;
+}
+.usa-link.usa-link--external::after {
+  background-image: url("../img/external-link.svg");
+}
+
+.usa-dark-background {
+  background-color: #1c1d1f;
+}
+.usa-dark-background a {
+  color: #73b3e7;
+}
+
+.fs-img-typography {
+  float: right;
+  padding: 10px 0 20px 20px;
+}
+
+.typography-mono-intro .text-huge,
+.typography-mono-intro .text-tiny {
+  font-family: Roboto Mono Web, Bitstream Vera Sans Mono, Consolas, Courier, monospace;
+  font-size: 8.34rem;
+  line-height: 1;
+}
+
+.typography-mono-intro .text-tiny {
+  font-size: 0.83rem;
+}
+
+.typography-serif-intro .text-huge,
+.typography-serif-intro .text-tiny {
+  font-family: Merriweather Web, Georgia, Cambria, Times New Roman, Times, serif;
+  font-size: 8.54rem;
+  line-height: 1;
+}
+
+.typography-serif-intro .text-tiny {
+  font-size: 0.85rem;
+}
+
+/*
+* ==> FSDP SVG Theme
+*/
+/*
+----------------------------------------
+Landing
+----------------------------------------
+*/
+.fsdp-landing-icon {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  background: #ffffff;
+  border-radius: 50%;
+}
+
+/*
+----------------------------------------
+How to use fsdp
+----------------------------------------
+*/
+.github {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 2em;
+  width: 2em;
+  margin-bottom: -0.6em;
+}
+
+@media (max-width: 332px) {
+  .how-to-use-fsdp {
+    width: 12em;
+  }
+}
+
+/*
+----------------------------------------
+FSDP all Components fontawesome
+----------------------------------------
+*/
+.fs-accordion-icon {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 1em;
+  width: 1.3em;
+  transform: translate(-8px, 2px);
+  color: #406012;
+}
+
+.fs-tab-icon {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  height: 1em;
+  width: 1.3em;
+  transform: translate(-8px, 2px);
+  color: #406012;
+}
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+.Technicaldebt {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 100%;
+  height: auto;
+  transform: translateX(-20%);
+}
+
+/*
+----------------------------------------
+508 Standards
+----------------------------------------
+*/
+.angularMaterialDesign {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 100%;
+  height: auto;
+}
