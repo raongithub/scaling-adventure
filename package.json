@@ -1,0 +1,61 @@
+{
+  "name": "scaling-adventure",
+  "version": "1.0.0",
+  "description": "A workflow with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raongithub/scaling-adventure.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "gulp"
+  ],
+  "author": "Ramu Anidharan",
+  "license": "ISC",
+  "peerDependencies": {
+    "autoprefixer": "^10.2.4",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "postcss": "^8.2.5",
+    "postcss-csso": "^5.0.0",
+    "sass": "^1.32.6",
+    "uswds": "^2.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-svg-sprite": "^1.5.0",
+    "postcss": "^8.2.5",
+    "postcss-csso": "^5.0.0",
+    "sass": "^1.32.6",
+    "uswds": "^2.10.2",
+    "uswds-gulp": "github:uswds/uswds-gulp"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/raongithub/scaling-adventure/issues"
+  },
+  "homepage": "https://github.com/raongithub/scaling-adventure#readme"
+}
